@@ -10,3 +10,4 @@ Projects I worked on while attending the Business Intelligence Analyst (BIA) Tri
 | 5 | Tableau - Superstore Analysis - Storytelling w/ Data - https://tinyurl.com/Albritton-S5-Tableau-Project | More in depth view of Superstore's operations. Analyzed potential reasons for high number of returns. |
 | 6 | Power BI - Shopify App Analysis - https://tinyurl.com/Albritton-S6-PowerBI-Project | Using publicly scraped data, analyzed key factors that play into the success of a Shopify App. |
 | 7 | Power BI - Zomato Analysis - see attached files | Performed a Customer Segmentation Analysis to determine who Zomato's customers are and where expansion efforts should be prioritized. |
+| 8 | TripleTen September Code Pudding - https://tinyurl.com/Albritton-Penguin-Patrol | Using Tableau, my team and I analyzed the differences between the Adelie Penguin species on 3 islands and then the Adelie against 2 other similar penguin species on the same islands. |
